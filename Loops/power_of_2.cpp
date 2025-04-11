@@ -1,3 +1,7 @@
+// Problem: Power of Two
+// Link: https://leetcode.com/problems/power-of-two/description/
+// Difficulty: Easy
+
 class Solution {
     public:
         bool isPowerOfTwo(int n) {
